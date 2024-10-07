@@ -7,21 +7,20 @@
 
 ## Sobre mí
 
-Soy desarrollador/a de [tu especialidad, por ejemplo, "software", "frontend", "backend"] con pasión por [tus intereses, por ejemplo, "crear aplicaciones web eficientes", "el diseño de interfaces de usuario intuitivas", "la inteligencia artificial"]. Me encanta aprender nuevas tecnologías y colaborar en proyectos innovadores.
+Soy desarrollador backend con pasión por el baloncesto. Me encanta aprender nuevas tecnologías y colaborar en proyectos innovadores.
 
-- 🌱 Actualmente estoy aprendiendo [tecnología o lenguaje que estás aprendiendo]
-- 👯 Me encantaría colaborar en [tipo de proyectos o tecnologías]
-- 🤔 Busco ayuda con [área donde necesitas ayuda]
-- 💬 Pregúntame sobre [temas en los que eres experto/a]
-- 📫 Cómo contactarme: [tu correo electrónico o enlace a LinkedIn]
-- ⚡ Dato curioso: [un dato interesante sobre ti]
+
+
+ 
+- 📫 Cómo contactarme: jesusgonzalvezgarcia
+
 
 ## Habilidades Técnicas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Html](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
