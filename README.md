@@ -4,7 +4,7 @@
 
 ###  zortproject
 
-Descripción breve del proyecto, tecnologías utilizadas y lo que hace.
+innovación de discord, usamos flutter.
 
 ## Habilidades Técnicas
 
