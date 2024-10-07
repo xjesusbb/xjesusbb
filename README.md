@@ -1,16 +1,13 @@
 # ¡Hola, soy Jesus! 👋
 
-## [Nombre del Proyecto](URL_DEL_PROYECTO)
+## Proyectos Destacados
+
+### [Nombre del Proyecto](URL_DEL_PROYECTO)
 Descripción breve del proyecto, tecnologías utilizadas y lo que hace.
 
 ## Habilidades Técnicas
 
 ![Java](https://skillicons.dev/icons?i=java) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript)
-
-## Proyectos Destacados
-
-### [Nombre del Proyecto](URL_DEL_PROYECTO)
-Descripción breve del proyecto, tecnologías utilizadas y lo que hace. 
 
 ## Sobre mí
 
@@ -26,4 +23,4 @@ Soy desarrollador backend con pasión por el baloncesto. Me encanta aprender nue
 ## Contáctame
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:TU_CORREO_ELECTRÓNICO)
+[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jesusgonzalvezgarcia2005@gmail.com)
