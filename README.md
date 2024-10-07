@@ -1,7 +1,7 @@
 # ¡Hola, soy Jesus! 👋
 
+![hellsing1](https://github.com/user-attachments/assets/7dd0c91b-dcee-44d2-a82a-104ea8712470)
 
-![hellsing](https://github.com/user-attachments/assets/d8b35561-e756-4cff-a31a-d74e58d198f3)
 
 ## Sobre mí
 
