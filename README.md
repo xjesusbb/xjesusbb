@@ -29,27 +29,17 @@ Soy desarrollador backend con pasión por el baloncesto. Me encanta aprender nue
 ### [Nombre del Proyecto](URL_DEL_PROYECTO)
 Descripción breve del proyecto, tecnologías utilizadas y lo que hace. 
 
-### [Nombre del Proyecto](URL_DEL_PROYECTO)
-Descripción breve del proyecto, tecnologías utilizadas y lo que hace.
 
-### [Nombre del Proyecto](URL_DEL_PROYECTO)
-Descripción breve del proyecto, tecnologías utilizadas y lo que hace.
 
 ## Estadísticas de GitHub
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=xjesusbb&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xjesusbb&layout=compact&theme=tokyonight)
 
-## Conéctate conmigo
+## Contáctame
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](TU_TWITTER)
 [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:TU_CORREO_ELECTRÓNICO)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xjesusbb&count_private=true&show_icons=true&theme=radical)
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js)](https://skillicons.dev)
