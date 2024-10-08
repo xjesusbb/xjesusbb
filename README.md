@@ -1,14 +1,3 @@
-<p align="center">
-  <!-- Animación de texto personalizada -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Full-stack;Apasionado%20por%20la%20tecnología;Siempre%20aprendiendo%20cosas%20nuevas;&font=Press%20Start%202P&center=true&width=1000&height=100&color=FFD700&vCenter=true&pause=1000&size=20" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jesusgonzalvezgarcia">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Press%20Start%202P&center=true&width=600&height=50&color=00FF7F&vCenter=true&size=16" alt="Jesús Gonzálvez García" /></a>
-</p>
-
 # 🌟 Bienvenido a mi Perfil
 
 ## 📊 Mis Estadísticas
