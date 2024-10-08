@@ -2,7 +2,7 @@
 
 ## 📊 Mis Estadísticas
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)](https://github.com/TuUsuario)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xjesusbb&show_icons=true&theme=merko)](https://github.com/TuUsuario)
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)](https://github.com/TuUsuario)
 
