@@ -1,14 +1,12 @@
-# 🌟 Bienvenido a mi Perfil
 
-## 📊 Mis Estadísticas
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xjesusbb&show_icons=true&theme=merko)](https://github.com/TuUsuario)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)](https://github.com/TuUsuario)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=xjesusbb&layout=compact&theme=merko)](https://github.com/TuUsuario)
 
-[![Racha de Contribuciones](https://streak-stats.demolab.com/?user=TuUsuario&theme=radical)](https://git.io/streak-stats)
+[![Racha de Contribuciones](https://streak-stats.demolab.com/?user=xjesusbb&theme=merko)](https://git.io/streak-stats)
 
-[![Actividad Reciente](https://github-readme-activity-graph.cyclic.app/graph?username=xjesusbb&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Actividad Reciente](https://github-readme-activity-graph.cyclic.app/graph?username=xjesusbb&theme=merko)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 Mis Trofeos
 
