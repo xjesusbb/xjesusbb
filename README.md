@@ -1,19 +1,8 @@
 # ¡Hola, soy Jesus! 👋
 
-## Proyectos Destacados
-
-###  zortproject
-
-innovación de discord, usamos flutter.
-
 ## Habilidades Técnicas
 
 ![Java](https://skillicons.dev/icons?i=java) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript)
-
-## Sobre mí
-
-Soy desarrollador backend con pasión por el baloncesto. Me encanta aprender nuevas tecnologías y colaborar en proyectos innovadores.
-
 
 ## Estadísticas de GitHub
 
