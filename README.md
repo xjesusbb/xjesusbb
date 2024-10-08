@@ -1,50 +1,173 @@
 <p align="center">
-  <a href= "https://i.imgur.com/SfhlIoZ.png"> </p>
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Ubuntu&center=true&width=800&height=100&color=800080&vCenter=true&size=50" alt="Jesús Gonzálvez García" /></a>
+</p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Programador%20Autodidacta;Entusiasta%20del%20Open%20Source;Siempre%20Curioso;&font=Fira%20Sans&center=true&width=600&height=50&color=FF6347&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Montserrat&center=true&width=800&height=100&color=FF8C00&vCenter=true&size=50" alt="Jesús Gonzálvez García" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Web;Explorador%20Tecnológico;Amante%20del%20Conocimiento;&font=Lato&center=true&width=600&height=50&color=00CED1&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Roboto%20Slab&center=true&width=800&height=100&color=DC143C&vCenter=true&size=55" alt="Jesús Gonzálvez García" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Back-end;Apasionado%20por%20la%20IA;Amante%20del%20Código%20Limpio;&font=Inconsolata&center=true&width=600&height=50&color=20B2AA&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Pacifico&center=true&width=800&height=100&color=50C878&vCenter=true&size=60" alt="Jesús Gonzálvez García" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ingeniero%20de%20Software;Amante%20de%20la%20Innovación;Colaborador%20Open%20Source;&font=Roboto&center=true&width=600&height=50&color=8A2BE2&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Lobster&center=true&width=800&height=100&color=000080&vCenter=true&size=55" alt="Jesús Gonzálvez García" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Full-stack;Apasionado%20por%20la%20Tecnología;Siempre%20Aprendiendo;&font=Verdana&center=true&width=600&height=50&color=FF4500&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Ubuntu&center=true&width=800&height=100&color=008080&vCenter=true&size=50" alt="Jesús Gonzálvez García" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Full-stack;Apasionado%20por%20la%20Tecnología;Siempre%20Aprendiendo;&font=Fira%20Sans&center=true&width=600&height=50&color=FF6347&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Playfair%20Display&center=true&width=800&height=100&color=FF4500&vCenter=true&size=55" alt="Jesús Gonzálvez García" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Full-stack;Explorador%20Tecnológico;Amante%20del%20Conocimiento;&font=Source%20Code%20Pro&center=true&width=600&height=50&color=4169E1&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Raleway&center=true&width=800&height=100&color=DC143C&vCenter=true&size=55" alt="Jesús Gonzálvez García" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Full-stack;Innovador%20y%20Creativo;Apasionado%20por%20la%20Tecnología;&font=Inconsolata&center=true&width=600&height=50&color=20B2AA&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Oswald&center=true&width=800&height=100&color=FF8C00&vCenter=true&size=50" alt="Jesús Gonzálvez García" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Back-end;Apasionado%20por%20la%20IA;Amante%20del%20open-source;&font=Lato&center=true&width=600&height=50&color=00CED1&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Great%20Vibes&center=true&width=800&height=100&color=FF1493&vCenter=true&size=60" alt="Jesús Gonzálvez García" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Full-stack;Apasionado%20por%20la%20tecnología;Siempre%20aprendiendo;&font=Roboto%20Mono&center=true&width=600&height=50&color=1E90FF&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Press%20Start%202P&center=true&width=1000&height=100&color=00FF7F&vCenter=true&size=40" alt="Jesús Gonzálvez García" /></a>
+</p>
+
+<p align="center">
+  <!-- Animación de texto personalizada -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Full-stack;Apasionado%20por%20la%20tecnología;Siempre%20aprendiendo%20cosas%20nuevas;&font=Press%20Start%202P&center=true&width=600&height=50&color=FFD700&vCenter=true&pause=1000&size=16" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesús%20Gonzálvez%20García&font=Pacifico&center=true&width=800&height=100&color=FF6F61&vCenter=true&size=50" alt="Jesús Gonzálvez García" /></a>
+</p>
+
+<p align="center">
+  <!-- Animación de texto personalizada -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Full-stack;Entusiasta%20de%20la%20IA;Amante%20del%20código%20limpio;&font=Courier%20Prime&center=true&width=600&height=60&color=5D3FD3&vCenter=true&pause=1000&size=24" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesus%20Gonzálvez%20García&font=Monoton&center=true&width=800&height=100&color=0E6BA8&vCenter=true&size=45" alt="jesus gonzalvez garcia" /></a>
+</p>
+
+<p align="center">
+  <!-- Animación de texto personalizada -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Full-stack;Apasionado%20por%20la%20tecnología;Siempre%20aprendiendo%20cosas%20nuevas&font=Monoton&center=true&width=440&height=45&color=0E6BA8&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=👋%20Hola%2C%20soy%20Jesús%20Gonzálvez%20García!;&font=Ubuntu&center=true&width=1000&height=80&color=58A6FF&vCenter=true&size=40" alt="jesus gonzalvez garcia" /></a>
+</p>
+
+<p align="center">
+  <!-- Animación de texto personalizada -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=💻%20Desarrollador%20Full-stack;🚀%20Apasionado%20por%20la%20tecnología;🌱%20Siempre%20aprendiendo%20cosas%20nuevas;&font=Ubuntu&center=true&width=800&height=50&color=F0DB4F&vCenter=true&pause=2000&size=24" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusgonzalvezgarcia">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jesus%20gonzalvez%20garcia&font=Fira%20Code&center=true&width=800&height=100&color=F75C7E&vCenter=true&size=45" alt="jesus gonzalvez garcia" /></a>
+</p>
+
+ 
+<p align="center">
+ 
+   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Full-stack;Apasionado%20por%20la%20tecnología;Siempre%20aprendiendo%20cosas%20nuevas&font=Fira%20Code&center=true&width=440&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!-- Sección de iconos sociales -->
-<p align="center">
-  <a href="https://www.youtube.com/c/TuCanal"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/TuUsuario/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/TuUsuario"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/TuServidor" alt="Discord" title="Servidor de Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/TuUsuario"><img width="32px" alt="Dev.to" title="Perfil en Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/TuUsuario"><img width="32px" alt="Ko-fi" title="Invítame un café" src="https://i.imgur.com/PpLeD3K.png"/></a>
-</p>
 
-<br/>
-
-<!-- Sección de insignias sociales -->
-<p align="center">
-  <a href="https://www.youtube.com/c/TuCanal?sub_confirmation=1">
-    <img alt="suscriptores de YouTube" title="Suscríbete a mi canal de YouTube" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/TuCanal">
-    <img alt="vistas de YouTube" title="Vistas en YouTube" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/TuUsuario?tab=repositories&sort=stargazers">
-    <img alt="total de estrellas" title="Total de estrellas en GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TuUsuario?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/TuUsuario?tab=followers">
-    <img alt="seguidores" title="Sígueme en GitHub" src="https://custom-icon-badges.demolab.com/github/followers/TuUsuario?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguir&logoColor=white"/></a>
-  <a href="https://github.com/TuUsuario/Simple-View-Counter">
-    <img alt="visitas" title="Visitas al perfil de GitHub" src="https://freshidea.com/jonah/app/TuUsuario-profile-views"/></a>
-</p>
-
-<br/>
-
-<!-- Enlace de GitHub Star -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/TuUsuario/">
-    <img src="https://github.com/TuUsuario/TuUsuario/assets/imagen.png" alt="GitHub Star 2023"/></a>
-</p>
 
 
 # 🌟 Bienvenido a mi Perfil
